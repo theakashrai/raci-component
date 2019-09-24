@@ -1,7 +1,7 @@
+// eslint-disable-next-line no-unused-vars
 import React from 'react';
 
 import './App.css';
-import Matrix from './Matrix';
 
 function App() {
   let cols = ['FSG Council'	,'Executive Committee Chair','Committee Chair',	'Advisory Group Members'	,'Business Leads'	,'Business Stewards Ops',	'AS Ops',	'Project Manager'];
